@@ -1,0 +1,22 @@
+{
+  "name": "teste_web_gis",
+  "version": "1.0.0",
+  "description": "teste web gis aplication",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https:/github.com/CarlosSena"
+  },
+  "keywords": [
+    "root"
+  ],
+  "author": "carlos sena",
+  "license": "ISC",
+  "dependencies": {
+    "ol": "^9.0.0",
+    "ol-layerswitcher": "^4.1.1"
+  }
+}
